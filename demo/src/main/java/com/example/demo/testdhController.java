@@ -1,7 +1,7 @@
 package com.example.demo;
 
-import org.springframework.stereotype.Controller;
-
-@Controller
 public class testdhController {
+    public static void main(String[] args) {
+        
+    }
 }
